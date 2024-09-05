@@ -28,7 +28,7 @@ app:
     - name: OTEL_TRACES_EXPORTER
       value: "none"
     - name: OTEL_METRIC_EXPORT_INTERVAL
-      value: "1000"
+      value: "1001"
     - name: OTEL_SDK_DISABLED
       value: "false"
   # List of variables that can be referenced in server.xml
