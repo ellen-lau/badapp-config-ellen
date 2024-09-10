@@ -1,3 +1,3 @@
 # sample-getting-started-config
 
-Kickoff deployment 2
+Kickoff deployment 3
