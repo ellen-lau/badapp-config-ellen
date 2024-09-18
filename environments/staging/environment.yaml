@@ -38,7 +38,7 @@ app:
       value: "false"
     - name: test_boolean_var
       value: "true"
-  version: "139b612f-7f70-4907-bc1e-6a4607569408"
+  version: "90958d4e-bf33-426b-bf2b-f27747bb7403"
 # probes
 # dynamic scaling
 # scaling to 0
